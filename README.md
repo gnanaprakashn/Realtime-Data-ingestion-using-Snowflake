@@ -37,7 +37,7 @@ This project shows end-to-end cloud + Snowflake integration.
 
 ## **🏗️ Architecture**
 
-![Snowflake Architecture](snowflakeproject_architecture.png)
+![Snowflake Architecture](snowflake.png)
 
 **Flow:**
 S3 (CSV files) → SQS Event → Snowpipe → Table (Snowflake)
