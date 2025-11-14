@@ -245,7 +245,7 @@ This is the exact pattern used in modern data platforms.
 # **👤 Author**
 
 **Gnana Prakash N**
-Aspiring Data Engineer
+Data Engineer
 GitHub: [gnanaprakashn](https://github.com/gnanaprakashn)
 
 ---
@@ -254,15 +254,4 @@ GitHub: [gnanaprakashn](https://github.com/gnanaprakashn)
 
 MIT © 2025
 
-```
 
----
-
-If you want, I can also create:
-
-🔥 A README for your Lambda Job Recommendation System  
-🔥 A README for your Hadoop Migration Project  
-🔥 A README for your Azure ETL Pipeline  
-
-Tell me which one next.
-```
